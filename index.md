@@ -23,31 +23,17 @@ ssc install ceq, replace
 
 ### Important dates
 
-  |--------------------| --------------------------------------------------------------------------|
-  |**Dates**           | **Deliverable**                                                           |
-  |------------------- | --------------------------------------------------------------------------|
-  |May 1, 2017         | Work begins     |
-  |------------------- | --------------------------------------------------------------------------|
-  Sep 30, 2017         1\. Review and complete Sections A, B and C of Master Workbook (MWB).
-                       
-                       2\. Produce the Computer Code (do files) that clean the raw data
-                       available from the national statistical agency and create from the
-                       cleaned data the Harmonized CEQ core income concepts and fiscal
-                       interventions.
-                       
-                       3\. Produce Sections D and E of the MWB or submit all the necessary
-                       information for the CEQ Institute’s staff to complete these sections on
-                       their own.
-
-  Dec 15^th^, 2017     1\. Revised sections A, B and C of Master Workbook (MWB).
-                       
-                       2\. Revised Computer Code (do files) and create from Harmonized CEQ core
-                       income concepts and fiscal interventions.
-                       
-                       3\. Sections D and E of the MWB
-
-  March 31^th^, 2018   Respond to CEQ Institute staff questions
-  ------------------- ---------------------------------------------------------------------------
+|Dates  (mm/dd)| Actions |
+|---|---|
+| **May 1, 2017** | Work begins |
+| **Sep 30, 2017** | 1\. Review and complete Sections A, B and C of Master Workbook (MWB). |
+|                  |2\. Produce the Computer Code (do files) that clean the raw data available from the national statistical agency and create from the cleaned data the Harmonized CEQ core income concepts and fiscal |
+                       interventions.|
+|                  |3\. Produce Sections D and E of the MWB or submit all the necessary information for the CEQ Institute’s staff to complete these sections on their own. |
+| **Dec 15, 2017**  | 1\. Revised sections A, B and C of Master Workbook (MWB). |
+|                   | 2\. Revised Computer Code (do files) and create from Harmonized CEQ coreincome concepts and fiscal interventions| |                   | 3\. Sections D and E of the MWB
+| **March 31, 2018** |   Respond to CEQ Institute staff questions |
+  
 
 ### Support or Contact
 
