@@ -1,10 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to Frequently Asked Questions on CEQ Re-runs 2017-2018
 
 You can use the [editor on GitHub](https://github.com/mynorvc/CEQ_RE_Runs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Documents
+- [CEQ Handbook](http://www.commitmentoequity.org/publications-ceq-handbook/)
+- A guide to name variables
+- Instructions on how to run ado files 
+
+## Update CEQ Stata Package
+```markdown
+ssc install ceq, replace
+```
+
+## Master Workbook
+
+
+## Changes in new CEQ Handbook (Version July 2017)
+
+- CEQ Income definitions
+- In-Kind Transfers
+- Using only current expenditures in Health and Education In-Kind Transfers
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -34,4 +51,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with CEQ Re-runs? Check [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
