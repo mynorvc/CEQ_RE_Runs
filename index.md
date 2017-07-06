@@ -5,17 +5,17 @@
 2. [How to update CEQ Stata Package?](#How)
 3. [Where is the last version of Master Workbook templates?](#Where)
 
-### Important documents <a name="Important"></a>
+### <a name="Important"></a> Important documents 
 - [CEQ Handbook](http://www.commitmentoequity.org/publications-ceq-handbook/)
 - [A guide to name variables](guide.pdf)
 - [CEQ Manual for Writing Do Files - Prepared by Sean Higgins](CEQ_Manual.pdf) 
 
-### How to update CEQ Stata Package? <a name="How"></a>
+### <a name="How"></a> How to update CEQ Stata Package? 
 ```markdown
 ssc install ceq, replace
 ```
 
-### Where is the last version of Master Workbook templates? <a name="Where"></a>
+### <a name="Where"></a> Where is the last version of Master Workbook templates? 
 - [Section ABC](https://goo.gl/AFWhsM)
 - [Section D - Linking](https://goo.gl/2rwXgB)
 - [Section E](https://www.dropbox.com/sh/ph6e59z84dba08g/AAAcrHBO8Ouox3Q5UxchWDUqa?dl=0)
