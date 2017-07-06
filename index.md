@@ -11,9 +11,9 @@ ssc install ceq, replace
 ```
 
 ### Where is the last version of Master Workbook templates?
-- [Section ABC]
-- [Section D - Linking]
-- [Section E]
+- [Section ABC](https://goo.gl/AFWhsM)
+- [Section D - Linking](https://goo.gl/2rwXgB)
+- [Section E](https://www.dropbox.com/sh/ph6e59z84dba08g/AAAcrHBO8Ouox3Q5UxchWDUqa?dl=0)
 
 ### Changes in new CEQ Handbook (Version July 2017)
 
