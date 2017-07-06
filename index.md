@@ -16,13 +16,11 @@ ssc install ceq, replace
 - [Section E](https://www.dropbox.com/sh/ph6e59z84dba08g/AAAcrHBO8Ouox3Q5UxchWDUqa?dl=0)
 
 ### Changes in new CEQ Handbook (Version July 2017)
-
 - CEQ Income definitions
 - In-Kind Transfers
 - Using only current expenditures in Health and Education In-Kind Transfers
 
 ### Important dates
-
 |**Dates** | **Deliverables** |
 |---|---|
 | **May 1, 2017** | Work begins |
@@ -34,7 +32,11 @@ ssc install ceq, replace
 |  | 3\. Sections D and E of the MWB             |
 |**March 31, 2018** |Respond to CEQ Institute staff questions |
 
- 
+
+## Upcoming documents
+- Stata code to run ado files
+
+
 ### Support or Contact
 
 Having trouble with CEQ Re-runs? Please contact Sandra Martinez (sandra.martinez@ceqinstitute.org) or Maynor Cabrera(maynor.cabrera@ceqinstitute.org)
