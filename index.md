@@ -3,7 +3,7 @@
 ## Table of contents
 1. [Important documents](#Important)
 2. [How to update CEQ Stata Package?](#How)
-3. [Where are the last version of Master Workbook templates?](#Where)
+3. [Where are the last versions of Master Workbook templates?](#Where)
 4. [Changes in new CEQ Handbook Version July 2017](#Changes)
 5. [Important dates](#dates)
 
@@ -17,7 +17,7 @@
 ssc install ceq, replace
 ```
 
-### <a name="Where"></a> Where are the last version of Master Workbook templates? 
+### <a name="Where"></a> Where are the last versions of Master Workbook templates? 
 - [Section ABC](https://goo.gl/AFWhsM)
 - [Section D - Linking](https://goo.gl/2rwXgB)
 - [Section E](https://www.dropbox.com/sh/ph6e59z84dba08g/AAAcrHBO8Ouox3Q5UxchWDUqa?dl=0)
