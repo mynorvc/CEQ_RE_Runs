@@ -1,16 +1,21 @@
 # Welcome to Frequently Asked Questions on CEQ Re-runs 2017-2018
 
-### Important documents
+## Table of contents
+1. [Important documents](#Important)
+2. [How to update CEQ Stata Package?](#How)
+3. [Where is the last version of Master Workbook templates?](#Where)
+
+### Important documents <a name="Important"></a>
 - [CEQ Handbook](http://www.commitmentoequity.org/publications-ceq-handbook/)
 - [A guide to name variables](guide.pdf)
 - [CEQ Manual for Writing Do Files - Prepared by Sean Higgins](CEQ_Manual.pdf) 
 
-### How to update CEQ Stata Package?
+### How to update CEQ Stata Package? <a name="How"></a>
 ```markdown
 ssc install ceq, replace
 ```
 
-### Where is the last version of Master Workbook templates?
+### Where is the last version of Master Workbook templates? <a name="Where"></a>
 - [Section ABC](https://goo.gl/AFWhsM)
 - [Section D - Linking](https://goo.gl/2rwXgB)
 - [Section E](https://www.dropbox.com/sh/ph6e59z84dba08g/AAAcrHBO8Ouox3Q5UxchWDUqa?dl=0)
