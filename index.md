@@ -3,7 +3,7 @@
 ### Important documents
 - [CEQ Handbook](http://www.commitmentoequity.org/publications-ceq-handbook/)
 - [A guide to name variables](guide.pdf)
-- Instructions on how to run ado files 
+- [CEQ Manual for Writing Do Files - Prepared by Sean Higgins](CEQ_Manual.pdf) 
 
 ### How to update CEQ Stata Package?
 ```markdown
