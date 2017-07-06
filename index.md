@@ -1,4 +1,4 @@
-## Welcome to Frequently Asked Questions on CEQ Re-runs 2017-2018
+# Welcome to Frequently Asked Questions on CEQ Re-runs 2017-2018
 
 ### Important documents
 - [CEQ Handbook](http://www.commitmentoequity.org/publications-ceq-handbook/)
@@ -23,7 +23,7 @@ ssc install ceq, replace
 ### Important dates
 ![Dates](Imagen1.png)
 
-## Upcoming documents
+### Upcoming documents
 - Stata code to run ado files
 
 
