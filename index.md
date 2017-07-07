@@ -1,6 +1,6 @@
 # Welcome to Frequently Asked Questions on CEQ Re-runs 2017-2018
 
-[Important documents](#Important) •  [Update CEQ Stata Package?](#How) •  [Last versions of MWB templates?](#Where) •  [Changes in new CEQ Handbook Version July 2017](#Changes) •  [Important dates](#dates)
+[Documents](#Important) •  [CEQ Stata Package?](#How) •  [MWB templates?](#Where) •  [Changes in CEQ Handbook July 2017](#Changes) •  [Important dates](#dates)
 
 ### <a name="Important"></a> Important documents 
 - [CEQ Handbook](http://www.commitmentoequity.org/publications-ceq-handbook/)
